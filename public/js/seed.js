@@ -6,7 +6,7 @@ window.Seed = (function () {
   const products = [
     {
       id: 1,
-      title: 'Yellow Pail',
+      title: 'Yellow Pailssss',
       description: 'On-demand sand castle construction expertise.',
       url: '#',
       votes: generateVoteCount(),
